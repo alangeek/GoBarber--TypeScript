@@ -1,18 +1,12 @@
 <h1 align="center">
-  <img alt="GoBarber" title="gobarber" src=".github/logo.svg" width="200px" />
+  <img alt="GoBarber" title="gobarber" src="github/logo.svg" width="200px" />
 </h1>
 
 <h3 align="center">
   GoBarber: back-end, front-end web e mobile
 </h3>
 
-<p align = "center">
-<a href="https://www.codefactor.io/repository/github/hugo-marcelo/gobarber-ts"><img src="https://www.codefactor.io/repository/github/hugo-marcelo/gobarber-ts/badge" alt="CodeFactor" /></a>
-<img alt = "Última confirmação do Github" src = "https://img.shields.io/github/last-commit/hugo-marcelo/gobarber-ts">
-<img alt = "Idioma principal do GitHub" src = "https://img.shields.io/github/languages/top/hugo-marcelo/gobarber-ts">
-<img alt = "GitHub" src = "https://img.shields.io/github/license/hugo-marcelo/gobarber-ts.svg">
-<a href="https://www.codacy.com/manual/hugo-marcelo/gobarber-ts?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hugo-marcelo/gobarber-ts&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/147d0b2836734c79b7ee5ea035f065b4"/></a>
-</p>
+
 
 <h3 align="center">
   <a href="https://insomnia.rest/run/?label=GoBarber&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fhugo-marcelo%2Fgobarber-ts%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
